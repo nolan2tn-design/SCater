@@ -1,25 +1,21 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+The MIT License (MIT)
 
-.tab-btn {
-  padding: 12px 20px;
-  font-weight: 500;
-  color: #4b5563;
-  transition: all 0.2s;
-}
+Copyright (c) 2026 Nai-Chung Hsu (https://codepen.io/Nai-Chung-Hsu/pen/RNoZWGW)
 
-.tab-btn.active {
-  color: #1e40af;
-  border-bottom: 4px solid #1e40af;
-  font-weight: 600;
-}
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-table td, table th {
-  padding: 12px 16px;
-  border-bottom: 1px solid #e5e7eb;
-}
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-tr:hover {
-  background-color: #f8fafc;
-}
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
